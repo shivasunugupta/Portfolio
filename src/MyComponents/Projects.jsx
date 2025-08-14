@@ -60,7 +60,7 @@ const Projects = () => {
             alt: 'project-4-img',
             technologies: ['React 19 + Vite' ,'@react-three','Radix UI','MagicUI','EmailJS Browser'],
             github: 'https://github.com/shivasunugupta/Portfolio',
-            live: '',
+            live: 'https://portfolio-one-ochre-66.vercel.app/',
             featured: false,
         },
         {
