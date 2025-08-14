@@ -19,15 +19,15 @@ A *fully responsive personal portfolio website** built using **React**, **Vite**
 
 ##  Tech Stack
 
-| Category            | Libraries / Tools                                                                 |
-|--------------------|----------------------------------------------------------------------------------|
-| **Frontend**        | React 19, Vite                                                                   |
-| **Styling**         | TailwindCSS 4, Tailwind Merge, tw-animate-css                                     |
-| **3D & Animations** | Three.js, @react-three/fiber, @react-three/postprocessing, postprocessing, motion |
-| **UI Components**   | Radix UI (Dropdown, Tooltip, Slot, Separator)                                     |
-| **Icons**           | Lucide React                                                                     |
-| **Email Integration** | EmailJS Browser                                                                 |
-| **Utilities**       | clsx, class-variance-authority, ogl                                               |
+| Technology                 | Description                                                     |
+|----------------------------|-----------------------------------------------------------------|
+| React 19 + Vite            | Frontend framework + fast development/build tooling            |
+| @react-three | Advanced 3D effects and postprocessing                   |
+| motion + tw-animate-css     | Animations and motion effects                                   |
+| Radix UI (Dropdown, Tooltip, Slot, Separator) | Accessible UI components                        |
+| EmailJS Browser            | Email integration for contact forms                              |
+| OGL                        | Lightweight WebGL library for custom effects                     |
+
 
 ---
 
