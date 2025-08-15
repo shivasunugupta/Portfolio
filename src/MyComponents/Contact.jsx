@@ -79,7 +79,7 @@ const Contact = () => {
                         <div className='md:mx-5'>
                             <h3 className='text-2xl font-bold mb-4'>Let's Connect</h3>
                             <p className='text-sm text-slate-600 dark:text-slate-200/80 leading-relaxed mb-8'>
-                                I'm always excited to discuss new opportunities, collaborate on interesting projects, or simply chat about technology and development.
+                                I'm always excited to connect and help you debug my jokes.
                             </p>
                         </div>
                         <div className='space-y-6'>
