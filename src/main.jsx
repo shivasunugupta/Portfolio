@@ -8,7 +8,7 @@ document.addEventListener('visibilitychange', function () {
   if (document.visibilityState === 'visible') {
     document.title = 'Portfolio | Shivasunu Gupta';
   } else {
-    document.title = 'Come back to Portfolio.'
+    document.title = 'Portfolio | Shivasunu Gupta'
   }
 })
 
