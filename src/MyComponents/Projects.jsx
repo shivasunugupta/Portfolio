@@ -144,6 +144,26 @@ const Projects = () => {
                         </Card>
                     ))}
                 </div>
+                <div className='flex justify-center mt-12'>
+                    <a
+                        href='https://github.com/shivasunugupta'
+                        target='__blank'
+                        className='group relative block overflow-hidden hover:shadow-2xl transition-all duration-500 hover:-translate-y-1 backdrop-blur-sm border-0 shadow-lg rounded-md w-48'
+                    >
+                        {/* Shine border */}
+                        <ShineBorder shineColor={resolvedTheme === 'dark' ? 'green' : 'black'} borderWidth={2} />
+
+                        {/* Card content */}
+                        <div className='p-4 text-center'>
+                            <h3 className='text-xl font-semibold group-hover:text-green-600 transition-colors duration-300 truncate'>
+                                View All Projects
+                            </h3>
+                            <p className='text-sm mt-1 text-[#9b9b9b]'>
+                                Check out all my GitHub repositories
+                            </p>
+                        </div>
+                    </a>
+                </div>
             </div>
         </section>
     )
