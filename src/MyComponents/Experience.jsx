@@ -15,7 +15,7 @@ const Experience = () => {
                 "Created REST APIs and used Axios to fetch questions and submit answers.",
                 "Worked with PostgreSQL to store user data, test details, questions, and quiz results."
             ],
-            github: "https://https://github.com/shivasunugupta/quizWindow.com/yourusername/your-repo", 
+            github: "https://github.com/shivasunugupta/quizWindow", 
             certificate: "https://drive.google.com/drive/folders/18L222B0PijU-t7H_gWBdtbnylfRFTkir"
         },
         {
